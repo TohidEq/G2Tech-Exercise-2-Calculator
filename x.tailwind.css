@@ -1,0 +1,4 @@
+@import "tailwind"
+body{
+    @apply bg-white-c hover:bg-darck-c-3 mx-auto pl-0 
+}
